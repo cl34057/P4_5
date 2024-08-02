@@ -1,0 +1,11 @@
+{
+    "Megan": {
+        "index": 1,
+        "nom_tournoi": "Megan",
+        "date_debut": "2024-09-26",
+        "date_fin": "2024-09-26",
+        "nb_rondes": 4,
+        "nb_max_joueurs": 20,
+        "type_tournoi": "blitz"
+    }
+}

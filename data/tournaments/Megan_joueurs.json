@@ -1,0 +1,65 @@
+[
+    {
+        "index": 1,
+        "nom": "josua",
+        "prenom": "beber",
+        "date_naissance": "2000-12-12",
+        "elo": 2000
+    },
+    {
+        "index": 3,
+        "nom": "beber",
+        "prenom": "bola",
+        "date_naissance": "1997-06-25",
+        "elo": 2020
+    },
+    {
+        "index": 5,
+        "nom": "hormital",
+        "prenom": "nico",
+        "date_naissance": "1998-02-22",
+        "elo": 1680
+    },
+    {
+        "index": 6,
+        "nom": "nirs",
+        "prenom": "polo",
+        "date_naissance": "1970-05-03",
+        "elo": 1550
+    },
+    {
+        "index": 7,
+        "nom": "karl",
+        "prenom": "genst",
+        "date_naissance": "2010-10-14",
+        "elo": 1600
+    },
+    {
+        "index": 9,
+        "nom": "racool",
+        "prenom": "james",
+        "date_naissance": "2005-07-16",
+        "elo": 1980
+    },
+    {
+        "index": 16,
+        "nom": "laprati",
+        "prenom": "gorilla",
+        "date_naissance": "2001-01-11",
+        "elo": 2200
+    },
+    {
+        "index": 18,
+        "nom": "chris",
+        "prenom": "marley",
+        "date_naissance": "1967-08-17",
+        "elo": 1630
+    },
+    {
+        "index": 15,
+        "nom": "rosi",
+        "prenom": "plaste",
+        "date_naissance": "2005-08-27",
+        "elo": 1990
+    }
+]

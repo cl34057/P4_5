@@ -1,0 +1,179 @@
+{
+    "index": 9,
+    "nom_tournoi": "Sisi",
+    "date_debut": "2027-02-10",
+    "date_fin": "2027-02-16",
+    "nb_rondes": 4,
+    "nb_inscrits": 8,
+    "nb_max_joueurs": 22,
+    "type_tournoi": "lent",
+    "statut": "En attente",
+    "joueurs_inscrits": [
+        {
+            "index": 1,
+            "nom": "Smith "
+        },
+        {
+            "index": 4,
+            "nom": "raza "
+        },
+        {
+            "index": 2,
+            "nom": "riri "
+        },
+        {
+            "index": 6,
+            "nom": "zerty "
+        },
+        {
+            "index": 10,
+            "nom": "ramaro "
+        },
+        {
+            "index": 9,
+            "nom": "justin "
+        },
+        {
+            "index": 14,
+            "nom": "Clement "
+        },
+        {
+            "index": 15,
+            "nom": "jamesy "
+        }
+    ],
+    "rondes": [
+        {
+            "numero": 1,
+            "date": "2024-07-12T10:34:41.793079",
+            "statut": "termin\u00e9e",
+            "matchs": [
+                {
+                    "match": "justin  - raza ",
+                    "score": "1-0"
+                },
+                {
+                    "match": "jamesy  - ramaro ",
+                    "score": "0.5-0.5"
+                },
+                {
+                    "match": "Clement  - riri ",
+                    "score": "1-0"
+                },
+                {
+                    "match": "Smith  - zerty ",
+                    "score": "1-0"
+                }
+            ],
+            "classement_apres_ronde": [
+                "1. justin  : 1",
+                "2. Clement  : 1",
+                "3. Smith  : 1",
+                "4. jamesy  : 0.5",
+                "5. ramaro  : 0.5",
+                "6. raza  : 0",
+                "7. riri  : 0",
+                "8. zerty  : 0"
+            ]
+        },
+        {
+            "numero": 2,
+            "date": "2024-07-12T10:35:39.992778",
+            "statut": "termin\u00e9e",
+            "matchs": [
+                {
+                    "match": "jamesy  - riri ",
+                    "score": "0.5-0.5"
+                },
+                {
+                    "match": "justin  - zerty ",
+                    "score": "0-1"
+                },
+                {
+                    "match": "Smith  - ramaro ",
+                    "score": "1-0"
+                },
+                {
+                    "match": "raza  - Clement ",
+                    "score": "0-1"
+                }
+            ],
+            "classement_apres_ronde": [
+                "1. Smith  : 1",
+                "2. zerty  : 1",
+                "3. Clement  : 1",
+                "4. jamesy  : 0.5",
+                "5. riri  : 0.5",
+                "6. justin  : 0",
+                "7. raza  : 0",
+                "8. ramaro  : 0"
+            ]
+        },
+        {
+            "numero": 3,
+            "date": "2024-07-12T10:36:28.353025",
+            "statut": "termin\u00e9e",
+            "matchs": [
+                {
+                    "match": "ramaro  - Clement ",
+                    "score": "1-0"
+                },
+                {
+                    "match": "justin  - raza ",
+                    "score": "1-0"
+                },
+                {
+                    "match": "riri  - zerty ",
+                    "score": "0-1"
+                },
+                {
+                    "match": "Smith  - jamesy ",
+                    "score": "0-1"
+                }
+            ],
+            "classement_apres_ronde": [
+                "1. ramaro  : 1",
+                "2. justin  : 1",
+                "3. zerty  : 1",
+                "4. jamesy  : 1",
+                "5. riri  : 0",
+                "6. Smith  : 0",
+                "7. Clement  : 0",
+                "8. raza  : 0"
+            ]
+        },
+        {
+            "numero": 4,
+            "date": "2024-07-12T10:38:07.337770",
+            "statut": "en cours",
+            "matchs": [
+                {
+                    "match": "zerty  - riri ",
+                    "score": "Non jou\u00e9"
+                },
+                {
+                    "match": "justin  - ramaro ",
+                    "score": "Non jou\u00e9"
+                },
+                {
+                    "match": "raza  - jamesy ",
+                    "score": "Non jou\u00e9"
+                },
+                {
+                    "match": "Clement  - Smith ",
+                    "score": "Non jou\u00e9"
+                }
+            ],
+            "classement_apres_ronde": [
+                "1. zerty  : 0",
+                "2. justin  : 0",
+                "3. raza  : 0",
+                "4. Clement  : 0",
+                "5. riri  : 0",
+                "6. ramaro  : 0",
+                "7. jamesy  : 0",
+                "8. Smith  : 0"
+            ]
+        }
+    ]
+}

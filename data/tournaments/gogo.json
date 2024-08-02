@@ -1,0 +1,26 @@
+{
+    "index": 4,
+    "nom_tournoi": "gogo",
+    "date_debut": "2024-12-12",
+    "date_fin": "2024-12-31",
+    "nb_rondes": 7,
+    "nb_inscrits": 0,
+    "nb_max_joueurs": 66,
+    "type_tournoi": "blitz",
+    "statut": "En attente",
+    "joueurs_inscrits": [],
+    "rondes": [
+        {
+            "numero": 1,
+            "date": "2024-07-11T22:42:19.627919",
+            "statut": "en cours",
+            "matchs": []
+        },
+        {
+            "numero": 2,
+            "date": "2024-07-11T22:42:29.627832",
+            "statut": "en cours",
+            "matchs": []
+        }
+    ]
+}

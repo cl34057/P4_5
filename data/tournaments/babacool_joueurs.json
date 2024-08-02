@@ -1,0 +1,74 @@
+[
+    {
+        "index": 1,
+        "nom": "Smith",
+        "prenom": "Alice",
+        "date_naissance": "1985-10-28",
+        "elo": 2800,
+        "score": 0
+    },
+    {
+        "index": 6,
+        "nom": "zerty",
+        "prenom": "rem",
+        "date_naissance": "1987-06-07",
+        "elo": 1999,
+        "score": 0
+    },
+    {
+        "index": 22,
+        "nom": "jiji",
+        "prenom": "palo",
+        "date_naissance": "2000-05-24",
+        "elo": 1600,
+        "score": 0
+    },
+    {
+        "index": 15,
+        "nom": "jamesy",
+        "prenom": "cameron",
+        "date_naissance": "1998-06-27",
+        "elo": 1200,
+        "score": 0
+    },
+    {
+        "index": 8,
+        "nom": "yen",
+        "prenom": "su",
+        "date_naissance": "2005-05-07",
+        "elo": 1989,
+        "score": 0
+    },
+    {
+        "index": 7,
+        "nom": "maximilien",
+        "prenom": "pergo",
+        "date_naissance": "2009-12-25",
+        "elo": 2800,
+        "score": 0
+    },
+    {
+        "index": 9,
+        "nom": "justin",
+        "prenom": "franco",
+        "date_naissance": "2000-12-12",
+        "elo": 3000,
+        "score": 0
+    },
+    {
+        "index": 12,
+        "nom": "corbaro",
+        "prenom": "stanislas",
+        "date_naissance": "1996-06-07",
+        "elo": 1500,
+        "score": 0
+    },
+    {
+        "index": 18,
+        "nom": "urli",
+        "prenom": "pala",
+        "date_naissance": "1997-04-29",
+        "elo": 2200,
+        "score": 0
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "index": 1,
+        "nom": "Smith",
+        "prenom": "",
+        "date_naissance": "2000-01-01",
+        "elo": 1500,
+        "score": 0
+    },
+    {
+        "index": 2,
+        "nom": "riri",
+        "prenom": "",
+        "date_naissance": "2000-01-01",
+        "elo": 1500,
+        "score": 0
+    },
+    {
+        "index": 3,
+        "nom": "remi",
+        "prenom": "",
+        "date_naissance": "2000-01-01",
+        "elo": 1500,
+        "score": 0
+    },
+    {
+        "index": 4,
+        "nom": "raza",
+        "prenom": "",
+        "date_naissance": "2000-01-01",
+        "elo": 1500,
+        "score": 0
+    },
+    {
+        "index": 7,
+        "nom": "maximilien",
+        "prenom": "",
+        "date_naissance": "2000-01-01",
+        "elo": 1500,
+        "score": 0
+    },
+    {
+        "index": 8,
+        "nom": "yen",
+        "prenom": "",
+        "date_naissance": "2000-01-01",
+        "elo": 1500,
+        "score": 0
+    },
+    {
+        "index": 20,
+        "nom": "picard",
+        "prenom": "",
+        "date_naissance": "2000-01-01",
+        "elo": 1500
+    }
+]

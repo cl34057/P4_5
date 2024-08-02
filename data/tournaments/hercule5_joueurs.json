@@ -1,0 +1,100 @@
+[
+    {
+        "index": 6,
+        "nom": "zerty",
+        "prenom": "",
+        "date_naissance": "1987-06-07",
+        "elo": 1999
+    },
+    {
+        "index": 3,
+        "nom": "remi",
+        "prenom": "",
+        "date_naissance": "1964-08-07",
+        "elo": 2900
+    },
+    {
+        "index": 4,
+        "nom": "raza",
+        "prenom": "",
+        "date_naissance": "1956-09-07",
+        "elo": 1300
+    },
+    {
+        "index": 10,
+        "nom": "ramaro",
+        "prenom": "",
+        "date_naissance": "1996-03-05",
+        "elo": 1750
+    },
+    {
+        "index": 7,
+        "nom": "maximilien",
+        "prenom": "",
+        "date_naissance": "2009-12-25",
+        "elo": 2800
+    },
+    {
+        "index": 11,
+        "nom": "sacristo",
+        "prenom": "",
+        "date_naissance": "1998-05-26",
+        "elo": 2900
+    },
+    {
+        "index": 5,
+        "nom": "grabl",
+        "prenom": "",
+        "date_naissance": "1987-08-24",
+        "elo": 1000
+    },
+    {
+        "index": 13,
+        "nom": "jessy",
+        "prenom": "",
+        "date_naissance": "1996-03-08",
+        "elo": 1200
+    },
+    {
+        "index": 9,
+        "nom": "justin",
+        "prenom": "",
+        "date_naissance": "2000-12-12",
+        "elo": 3000
+    },
+    {
+        "index": 17,
+        "nom": "joma",
+        "prenom": "",
+        "date_naissance": "1997-06-03",
+        "elo": 1500
+    },
+    {
+        "index": 22,
+        "nom": "jiji",
+        "prenom": "",
+        "date_naissance": "2000-05-24",
+        "elo": 1600
+    },
+    {
+        "index": 19,
+        "nom": "titi",
+        "prenom": "",
+        "date_naissance": "2001-06-02",
+        "elo": 2000
+    },
+    {
+        "index": 18,
+        "nom": "urli",
+        "prenom": "",
+        "date_naissance": "1997-04-29",
+        "elo": 2200
+    },
+    {
+        "index": 23,
+        "nom": "Poly",
+        "prenom": "",
+        "date_naissance": "2001-10-12",
+        "elo": 1200
+    }
+]

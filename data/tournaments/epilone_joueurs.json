@@ -1,0 +1,72 @@
+[
+    {
+        "index": 1,
+        "nom": "Smith",
+        "prenom": "",
+        "date_naissance": "1985-10-28",
+        "elo": 2800
+    },
+    {
+        "index": 2,
+        "nom": "riri",
+        "prenom": "",
+        "date_naissance": "1987-12-12",
+        "elo": "1650"
+    },
+    {
+        "index": 3,
+        "nom": "remi",
+        "prenom": "",
+        "date_naissance": "1964-08-07",
+        "elo": 2900
+    },
+    {
+        "index": 4,
+        "nom": "raza",
+        "prenom": "",
+        "date_naissance": "1956-09-07",
+        "elo": 1300
+    },
+    {
+        "index": 5,
+        "nom": "grabl",
+        "prenom": "",
+        "date_naissance": "1987-08-24",
+        "elo": 1000
+    },
+    {
+        "index": 6,
+        "nom": "zerty",
+        "prenom": "",
+        "date_naissance": "1987-06-07",
+        "elo": 1999
+    },
+    {
+        "index": 7,
+        "nom": "maximilien",
+        "prenom": "",
+        "date_naissance": "2009-12-25",
+        "elo": 2800
+    },
+    {
+        "index": 22,
+        "nom": "jiji",
+        "prenom": "",
+        "date_naissance": "2000-05-24",
+        "elo": 1600
+    },
+    {
+        "index": 12,
+        "nom": "corbaro",
+        "prenom": "",
+        "date_naissance": "1996-06-07",
+        "elo": 1500
+    },
+    {
+        "index": 14,
+        "nom": "Clement",
+        "prenom": "",
+        "date_naissance": "2000-01-02",
+        "elo": 1800
+    }
+]

@@ -1,0 +1,177 @@
+{
+    "index": 14,
+    "nom_tournoi": "Noel",
+    "date_debut": "2024-12-12",
+    "date_fin": "2024-12-24",
+    "nb_rondes": 4,
+    "nb_inscrits": 9,
+    "nb_max_joueurs": 52,
+    "type_tournoi": "rapide",
+    "statut": "En attente",
+    "joueurs_inscrits": [
+        {
+            "index": 1,
+            "nom": "Smith",
+            "prenom": "",
+            "date_naissance": "1985-10-28",
+            "elo": 2800
+        },
+        {
+            "index": 3,
+            "nom": "remi",
+            "prenom": "",
+            "date_naissance": "1964-08-07",
+            "elo": 2900
+        },
+        {
+            "index": 5,
+            "nom": "grabl",
+            "prenom": "",
+            "date_naissance": "1987-08-24",
+            "elo": 1000
+        },
+        {
+            "index": 6,
+            "nom": "zerty",
+            "prenom": "",
+            "date_naissance": "1987-06-07",
+            "elo": 1999
+        },
+        {
+            "index": 8,
+            "nom": "yen",
+            "prenom": "",
+            "date_naissance": "2005-05-07",
+            "elo": 1989
+        },
+        {
+            "index": 10,
+            "nom": "ramaro",
+            "prenom": "",
+            "date_naissance": "1996-03-05",
+            "elo": 1750
+        },
+        {
+            "index": 12,
+            "nom": "corbaro",
+            "prenom": "",
+            "date_naissance": "1996-06-07",
+            "elo": 1500
+        },
+        {
+            "index": 14,
+            "nom": "Clement",
+            "prenom": "",
+            "date_naissance": "2000-01-02",
+            "elo": 1800
+        },
+        {
+            "index": 18,
+            "nom": "urli",
+            "prenom": "",
+            "date_naissance": "1997-04-29",
+            "elo": 2200
+        }
+    ],
+    "rondes": [
+        {
+            "numero": 1,
+            "date": "2024-07-19T11:04:17.500452",
+            "statut": "terminée",
+            "matchs": [
+                {
+                    "match": "corbaro  - remi ",
+                    "score": "0.5-0.5"
+                },
+                {
+                    "match": "Clement  - urli ",
+                    "score": "1-0"
+                },
+                {
+                    "match": "yen  - grabl ",
+                    "score": "0-1"
+                },
+                {
+                    "match": "Smith  - zerty ",
+                    "score": "0-1"
+                }
+            ],
+            "classement_apres_ronde": [
+                "1. Clement  : 1",
+                "2. grabl  : 1",
+                "3. zerty  : 1",
+                "4. corbaro  : 0.5",
+                "5. remi  : 0.5",
+                "6. yen  : 0",
+                "7. Smith  : 0",
+                "8. urli  : 0"
+            ]
+        },
+        {
+            "numero": 2,
+            "date": "2024-07-19T11:07:17.588221",
+            "statut": "terminée",
+            "matchs": [
+                {
+                    "match": "ramaro  - Smith ",
+                    "score": "1-0"
+                },
+                {
+                    "match": "zerty  - grabl ",
+                    "score": "1-0"
+                },
+                {
+                    "match": "yen  - Clement ",
+                    "score": "1-0"
+                },
+                {
+                    "match": "remi  - urli ",
+                    "score": "1-0"
+                }
+            ],
+            "classement_apres_ronde": [
+                "1. ramaro  : 1",
+                "2. zerty  : 1",
+                "3. yen  : 1",
+                "4. remi  : 1",
+                "5. Smith  : 0",
+                "6. grabl  : 0",
+                "7. Clement  : 0",
+                "8. urli  : 0"
+            ]
+        },
+        {
+            "numero": 3,
+            "date": "2024-07-19T11:09:13.618430",
+            "statut": "terminée",
+            "matchs": [
+                {
+                    "match": "Smith  - remi ",
+                    "score": "1-0"
+                },
+                {
+                    "match": "grabl  - zerty ",
+                    "score": "1-0"
+                },
+                {
+                    "match": "yen  - ramaro ",
+                    "score": "0-1"
+                },
+                {
+                    "match": "corbaro  - Clement ",
+                    "score": "0-1"
+                }
+            ],
+            "classement_apres_ronde": [
+                "1. Smith  : 1",
+                "2. grabl  : 1",
+                "3. ramaro  : 1",
+                "4. Clement  : 1",
+                "5. yen  : 0",
+                "6. corbaro  : 0",
+                "7. remi  : 0",
+                "8. zerty  : 0"
+            ]
+        }
+    ]
+}

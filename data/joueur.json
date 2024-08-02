@@ -1,0 +1,156 @@
+[
+    {
+        "index": 1,
+        "nom": "josua",
+        "prenom": "beber",
+        "date_naissance": "2000-12-12",
+        "elo": 2000
+    },
+    {
+        "index": 2,
+        "nom": "roger",
+        "prenom": "vastin",
+        "date_naissance": "1999-06-14",
+        "elo": 1500
+    },
+    {
+        "index": 3,
+        "nom": "beber",
+        "prenom": "bola",
+        "date_naissance": "1997-06-25",
+        "elo": 2020
+    },
+    {
+        "index": 4,
+        "nom": "perget",
+        "prenom": "micka",
+        "date_naissance": "2005-06-30",
+        "elo": 1750
+    },
+    {
+        "index": 5,
+        "nom": "hormital",
+        "prenom": "nico",
+        "date_naissance": "1998-02-22",
+        "elo": 1680
+    },
+    {
+        "index": 6,
+        "nom": "nirs",
+        "prenom": "polo",
+        "date_naissance": "1970-05-03",
+        "elo": 1550
+    },
+    {
+        "index": 7,
+        "nom": "karl",
+        "prenom": "genst",
+        "date_naissance": "2010-10-14",
+        "elo": 1600
+    },
+    {
+        "index": 8,
+        "nom": "poiret",
+        "prenom": "andr\u00e9",
+        "date_naissance": "2001-06-05",
+        "elo": 1200
+    },
+    {
+        "index": 9,
+        "nom": "racool",
+        "prenom": "james",
+        "date_naissance": "2005-07-16",
+        "elo": 1980
+    },
+    {
+        "index": 10,
+        "nom": "lemart",
+        "prenom": "fustu",
+        "date_naissance": "1995-06-24",
+        "elo": 2080
+    },
+    {
+        "index": 11,
+        "nom": "hero",
+        "prenom": "joule",
+        "date_naissance": "1993-01-23",
+        "elo": 1690
+    },
+    {
+        "index": 12,
+        "nom": "nervose",
+        "prenom": "paul",
+        "date_naissance": "1996-03-05",
+        "elo": 1100
+    },
+    {
+        "index": 13,
+        "nom": "herbert",
+        "prenom": "leonard",
+        "date_naissance": "2002-04-12",
+        "elo": 2100
+    },
+    {
+        "index": 14,
+        "nom": "karlito",
+        "prenom": "paito",
+        "date_naissance": "2006-12-24",
+        "elo": 1820
+    },
+    {
+        "index": 15,
+        "nom": "rosi",
+        "prenom": "plaste",
+        "date_naissance": "2005-08-27",
+        "elo": 1990
+    },
+    {
+        "index": 16,
+        "nom": "laprati",
+        "prenom": "gorilla",
+        "date_naissance": "2001-01-11",
+        "elo": 2200
+    },
+    {
+        "index": 17,
+        "nom": "salotra",
+        "prenom": "francisco",
+        "date_naissance": "1963-04-10",
+        "elo": 1200
+    },
+    {
+        "index": 18,
+        "nom": "chris",
+        "prenom": "marley",
+        "date_naissance": "1967-08-17",
+        "elo": 1630
+    },
+    {
+        "index": 19,
+        "nom": "nanan",
+        "prenom": "mio",
+        "date_naissance": "1987-08-01",
+        "elo": 1700
+    },
+    {
+        "index": 20,
+        "nom": "monica",
+        "prenom": "belucci",
+        "date_naissance": "1998-03-03",
+        "elo": 1664
+    },
+    {
+        "index": 21,
+        "nom": "jamy",
+        "prenom": "kio",
+        "date_naissance": "2002-10-11",
+        "elo": 2400
+    },
+    {
+        "index": 22,
+        "nom": "saoul",
+        "prenom": "harmoni",
+        "date_naissance": "1977-09-15",
+        "elo": 2600
+    }
+]

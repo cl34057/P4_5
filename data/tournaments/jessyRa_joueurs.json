@@ -1,0 +1,66 @@
+[
+    {
+        "index": 1,
+        "nom": "Smith",
+        "prenom": "",
+        "date_naissance": "2000-01-01",
+        "elo": 1500,
+        "score": 0
+    },
+    {
+        "index": 2,
+        "nom": "riri",
+        "prenom": "",
+        "date_naissance": "2000-01-01",
+        "elo": 1500,
+        "score": 0
+    },
+    {
+        "index": 6,
+        "nom": "zerty",
+        "prenom": "",
+        "date_naissance": "2000-01-01",
+        "elo": 1500,
+        "score": 0
+    },
+    {
+        "index": 7,
+        "nom": "maximilien",
+        "prenom": "",
+        "date_naissance": "2000-01-01",
+        "elo": 1500,
+        "score": 0
+    },
+    {
+        "index": 8,
+        "nom": "yen",
+        "prenom": "",
+        "date_naissance": "2000-01-01",
+        "elo": 1500,
+        "score": 0
+    },
+    {
+        "index": 10,
+        "nom": "ramaro",
+        "prenom": "",
+        "date_naissance": "2000-01-01",
+        "elo": 1500,
+        "score": 0
+    },
+    {
+        "index": 12,
+        "nom": "corbaro",
+        "prenom": "",
+        "date_naissance": "2000-01-01",
+        "elo": 1500,
+        "score": 0
+    },
+    {
+        "index": 16,
+        "nom": "tii",
+        "prenom": "",
+        "date_naissance": "2000-01-01",
+        "elo": 1500,
+        "score": 0
+    }
+]
